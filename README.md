@@ -2,6 +2,17 @@
 Simple projects completed through Udemy course '100 days of Code: The complete Python Pro Bootcamp'
 
 
+
+
+
+
+
+
+
+
+
+
+
 Some of the projects
 #Password Generator Project
 import random
