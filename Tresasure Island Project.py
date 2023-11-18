@@ -1,4 +1,4 @@
-pprint("Welcome to the Treasure Island.")
+print("Welcome to the Treasure Island.")
 print("Your mission is to find the treasure.")
 choice1 = input('You\'ve come to the crossroad. Where do you want to go? Type "left" or "right".').lower()
 if choice1 == "left":
