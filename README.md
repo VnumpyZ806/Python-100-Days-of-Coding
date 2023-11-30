@@ -12,7 +12,8 @@ import math
 
 # Step 2 - Define the function and its parameters
 def paint_calc(height, width, cover):
-  num_cans = (height * width) / cover # Formula calculation
+# Formula calculation
+  num_cans = (height * width) / cover 
   round_up_cans = math.ceil(num_cans) # rounding step
   print(f"You'll need {round_up_cans} cans of paint.") # Print the result statement
 
